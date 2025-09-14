@@ -57,7 +57,7 @@ Next steps include:
 
 ## 🌍 Let’s Connect  
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/anilmarneni" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
   </a>
 </p>
